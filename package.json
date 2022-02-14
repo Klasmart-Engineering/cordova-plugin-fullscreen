@@ -2,7 +2,7 @@
   "name": "cordova-plugin-fullscreen",
   "version": "1.3.0-stable",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
+    "test": "echo \"Error: no test specified\""
   },
   "description": "Plugin for Cordova (or PhoneGap) 3.0+ to enable true full screen on Android devices using lean and immersive modes",
   "cordova": {
