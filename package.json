@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mesmotronic/cordova-fullscreen-plugin.git"
+    "url": "git+https://github.com/KL-Engineering/cordova-plugin-fullscreen.git"
   },
   "keywords": [
     "cordova",
