@@ -1,5 +1,5 @@
 {
-  "name": "@kidsloop-global/cordova-plugin-fullscreen",
+  "name": "@KL-Engineering/cordova-plugin-fullscreen",
   "version": "1.3.0",
   "scripts": {
     "test": "echo \"Error: no test specified\""
