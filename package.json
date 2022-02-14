@@ -32,5 +32,8 @@
   "bugs": {
     "url": "https://github.com/mesmotronic/cordova-fullscreen-plugin/issues"
   },
-  "homepage": "https://github.com/mesmotronic/cordova-fullscreen-plugin#readme"
+  "homepage": "https://github.com/mesmotronic/cordova-fullscreen-plugin#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
